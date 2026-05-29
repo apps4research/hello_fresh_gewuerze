@@ -49,7 +49,7 @@
 - Hello Paprika
   * Paprika, Knoblauch, Pfeffer (schwarz), Zwiebel, Speisesalz, Toastzwiebelpulver, Tomaten, Tomatenpulver
   * Alternative: [Spicebar Tinas Tomatiges](https://www.spicebar.de/tinas-tomatiges-bio)
-  * Alternative zu Tina's Tomatiges: [Besser M Glass](https://besserimglas.de/products/pasta-talent-gewurz)
+  * Alternative zu Tina's Tomatiges: [Besser M Glass Pasta Talent](https://besserimglas.de/products/pasta-talent-gewurz)
  
 - Hello Patatas
    * Speisesalz, Paprika, Curcuma, Kreuzkümmel, Muskat, Zwiebelgranulat
